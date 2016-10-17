@@ -1,0 +1,14 @@
+CS515 Assignment 9
+
+Name: <Guanlai Li>
+uid: <gpw6>
+Section: 02
+
+How many hours did you take to complete this assignment?
+3
+
+How difficult did you find this assignment from a scale of 0-10 where 10 represents the hardest?
+3
+
+What challenges did you encounter? And how did you address them?
+the ++ operator cannot access variable in outer class, so I added a boolean in Entry structure and connects all nodes together to make the ++ work. the boolean should be considered as a helper method(variable).
